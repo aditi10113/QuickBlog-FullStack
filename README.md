@@ -1,37 +1,24 @@
-# 📝 QuickBlog
+# Quickblog 📝
 
-QuickBlog is an AI-powered blogging platform where users can effortlessly create, edit, and publish blogs with the help of Gemini AI. It features a clean and responsive UI with seamless image uploads using ImageKit and a robust backend built on the MERN stack.
-
----
-
-## ⚙️ Tech Stack
-
-- **Frontend**: React.js  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **AI Integration**: Gemini AI  
-- **Image Hosting**: ImageKit  
+**Quickblog** is an AI-powered blogging platform that allows users to effortlessly create, manage, and explore blogs with the help of modern UI and intelligent content generation.
 
 ---
 
-## 🚀 Run Locally
+## 🛠 Tech Stack
 
-Start the project at:  
-🔗 [http://localhost:5173/](http://localhost:5173/)
-
----
-
-## 📸 Screenshots
-
-### 🔹 Home Page  
-![Home Page](https://github.com/aditi10113/quickblog/blob/main/screenshots/home.png)
-
-### 🔹 Create Blog Editor  
-![Blog Editor](https://github.com/aditi10113/quickblog/blob/main/screenshots/editor.png)
-
-### 🔹 Blog Post View  
-![Blog View](https://github.com/aditi10113/quickblog/blob/main/screenshots/blog.png)
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **AI Integration:** Gemini API  
+- **Media Handling:** ImageKit
 
 ---
 
-> *"Smart blogging made simple with AI ✨"*
+## 🚀 Deployment
+
+- **Live URL (Vercel):** [https://quick-blog-server-phi-rouge.vercel.app/](https://quick-blog-server-phi-rouge.vercel.app/)
+- **Localhost:** `http://localhost:5173/`
+
+---
+
+Happy blogging! 🚀
