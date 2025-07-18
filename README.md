@@ -1,6 +1,6 @@
 # 📝 QuickBlog
 
-QuickBlog is an AI-powered blogging platform that enables users to create, edit, and publish intelligent blog content using Gemini AI. It features a clean UI, seamless image uploads via ImageKit, and a robust backend built on the MERN stack.
+QuickBlog is an AI-powered blogging platform where users can effortlessly create, edit, and publish blogs with the help of Gemini AI. It features a clean and responsive UI with seamless image uploads using ImageKit and a robust backend built on the MERN stack.
 
 ---
 
@@ -14,24 +14,24 @@ QuickBlog is an AI-powered blogging platform that enables users to create, edit,
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Run Locally
 
-🔗 [Visit QuickBlog](https://quick-blog-server-phi-rouge.vercel.app/)
+Start the project at:  
+🔗 [http://localhost:5173/](http://localhost:5173/)
 
 ---
 
 ## 📸 Screenshots
 
 ### 🔹 Home Page  
-![Home](https://github.com/your-username/your-repo-name/blob/main/screenshots/home.png)
+![Home Page](https://github.com/aditi10113/quickblog/blob/main/screenshots/home.png)
 
-### 🔹 New Post Editor  
-![Editor](https://github.com/your-username/your-repo-name/blob/main/screenshots/editor.png)
+### 🔹 Create Blog Editor  
+![Blog Editor](https://github.com/aditi10113/quickblog/blob/main/screenshots/editor.png)
 
 ### 🔹 Blog Post View  
-![Blog](https://github.com/your-username/your-repo-name/blob/main/screenshots/blog.png)
+![Blog View](https://github.com/aditi10113/quickblog/blob/main/screenshots/blog.png)
 
 ---
 
-> *Smart blogging, simplified with AI.*
-
+> *"Smart blogging made simple with AI ✨"*
