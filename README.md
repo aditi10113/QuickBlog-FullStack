@@ -14,10 +14,9 @@
 
 ---
 
-## 🚀 Deployment
+## 💻 Local Deployment
 
-- **Live URL (Vercel):** [https://quick-blog-server-phi-rouge.vercel.app/](https://quick-blog-server-phi-rouge.vercel.app/)
-- **Localhost:** `http://localhost:5173/`
+- **Frontend URL:** `http://localhost:5173/`
 
 ---
 
